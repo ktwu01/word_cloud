@@ -1,0 +1,183 @@
+differentiable modeling, land surface, machine learning, physically based simulations
+sub-seasonal predictors, extreme heat, interpretable machine learning
+tree mortality, forest die - off, hotter drought
+drought, heat, tree mortality, climate change, forests
+water flux, lowland tropical forest, trees
+multidimensional structural characterization, moderate forest disturbance
+drought effects, water relations, beech, exchangeable water, water reservoirs, agricultural forest meteorology
+deep soil, dynamic root uptake, Noah-MP (v4.5), Amazon dry-season transpiration
+ecosystem pressure, ecosystem volume, theoretical framework, global change biology
+water flow, tree species, diffuse-porous, ring-porous
+finite element, tree crown, hydrodynamics model, porous media flow, branching elements, tree hydrodynamics, water resources research
+Precipitation, Climates, GCMs, Geophysical, Research, Letters
+stomatal conductance, leaf water-use efficiency, water transport, soil-plant-atmosphere continuum, earth system, geoscientific model development
+forests, climate change, climate benefits
+Soil, stem, water storage, phenology, distribution, tropical dry forest trees
+Digital Twin, terrestrial water cycle, high-resolution, Earth observations
+hydraulic properties, porous media, hydrology papers
+plant hydraulics, water characteristic curves, mature living trees, soil physics
+scientific workflows, distributed cyberinfrastructures, earth science application, utility and cloud computing
+tree-water relations, tree size, forest age, tree structure, tree function
+Tree water storage, Diurnal dynamics, Sap flow, Stem volume, Douglas - fir trees, Tree Physiology
+anthropogenic impacts, global drought, frequency, duration, intensity
+forests, drought, vulnerability
+Flash Drought, United States, Hydrometeorology
+rock moisture, hydrologic cycle
+plant physiology, fire behavior, fire effects, simulation
+Underlying surface, Thermal factors, July precipitation, Eastern China
+International Soil, Soil Moisture, Earth System, Hydrol Earth
+Flash Floods, Workflows, Cloud Computing, eScience
+dynamic network, distributed cloud, scientific workflows, adaptive weather sensing, eScience conference
+land models, soil hydrological processes, soil moisture memory
+Lightning-Fast, Convective Outlooks, Severe Convective, AI-Based, Weather Models, Geophysical Research, Research Letters
+water storage, water transit time, vegetation
+Large AI models, weather forecasting
+hydrologic simulations, deep learning, differentiable models, global scale
+vapor pressure deficit, continental-scale drying, United States atmosphere, historic changes, projected changes
+terrestrial hydrologic intensity, atmospheric water demand
+flash drought, meteorological conditions, Eastern United States, agricultural forest meteorology
+Machine Learning, Water Modeling
+soil moisture, plant water stress
+acoustic emission, water status, xylem embolism, pine wilt disease, tree physiology
+Application Aware, Software Defined, Workflow Ensembles, Data-Intensive Science
+Root zone, Earth system, Hydrol. Earth Syst. Sci.
+plot-level tree structure, deciduous forest, allometric equations, spatial wavelet analysis, airborne LiDAR, remote sensing
+allometry-based model, survival strategies, hydraulic failure, carbon starvation, ecohydrology
+Amazonian forests, precipitation variability
+"topography, terrestrial water cycle, global water cycle, Reviews of Geophysics
+
+说明：从引用文本中提取符合每个关键词少于 3 个单词要求的关键信息，主要围绕研究主题，地形对全球陆地水循环的影响以及发表期刊等方面得到以上关键词。"
+Stem water storage, Diurnal patterns, Water use, Tropical forest, Canopy trees, Plant Cell, Environment
+forest composition, stem density, biomass, settlement era, upper midwestern US, 2015
+Griffith, G.E., Ecoregions, Texas, U.S.G. Survey, Editor, 2004
+plant responses, rising vapor, pressure deficit
+soil moisture, water table, mapping, dynamic changes
+vegetation soil moisture, soil moisture data assimilation, water-limited regimes, Texas
+soil texture, soil moisture, land surface model
+TDR measurement, stem water content, soil water content, Mediterranean oak species, Hydrological Sciences Journal
+stem water-content, arborescent palm, Sabal palmetto, dielectric measurements, frequency domain, time domain, Journal of Experimental Botany
+SPOTting model, python rackage, PLOS ONE
+Water Tracer Model, WRF - Hydro, Lateral Flow, Hydrologic Simulations, Water Resources Research
+open data, global groundwater, social-ecological systems
+terrestrial water, transpiration
+Industrial Catastrophe, Catastrophe Risk, Climate Peril, Cross - Sector, Catastrophe Research
+machine learning, rain-snow partitioning, near-surface meteorology
+Hydraulic safety, embolism reversal, conifers, angiosperms, Plant Science
+plant photosynthesis, plant hydraulics, unified theory
+Soil Parameterization, Land Surface Models, Soil Moisture Predictions, Hydrologically Complex regions, Contiguous United States
+TRY, plant traits, global database
+plant hydraulics, Community Land Model, Version 5, Earth Systems
+Xylem embolism, Drought-induced mortality, Woody plants, Ecological Research
+Runoff conditions, upper Danube basin, climate change scenarios, Journal of Hydrology
+Stem water storage, Temperate broad - leaved tree species, Tree functional traits
+neural models, weather, climate, general circulation
+global variations, ecosystem-scale, isohydricity
+forest response, droughts, vegetation water content, global observations
+L-band, vegetation optical depth, effective scattering albedo, SMAP, Remote Sensing, Environment
+land information, land surface, high resolution, modeling framework, environmental software
+machine learning, climate physics, simulations
+global carbon, carbon budget, Earth System, Science Data
+Noah‐MP, land surface, simulated runoff, Tibetan Plateau
+seesaw spring, soil moisture, middle latitudes, general circulation, summer mechanism
+land surface, Earth system, modeling
+Plant Hydraulics, Noah - MP, Land Surface Model, Model Development, Multi - scale Evaluation, Modeling Earth Systems
+unified ensemble, soil moisture, continental United States, Sci Data
+Soil Moisture, Runoff Estimation, Data-driven Model, Asian Water Towers
+centrifugal methods, xylem cavitation, conifers, diffuse-porous angiosperms, ring-porous angiosperms, New Phytologist
+Heavy Precipitation, Urban Regions, Land-Atmosphere Coupling, NCAR CESM2, Geophysical Research
+Plant hydraulics, Atmospheric moisture stress, Transpiration
+High Latitude, Vegetation Composition, Vegetation Productivity, Functional Trait
+Arctic shrub, Dispersal, Fire, Shrub expansion
+model predictions, unified approach, neural information processing systems
+leaf gas exchange, xylem cavitation, temperate forest trees
+groundwater, land surface, land information system, ParFlow environment
+environmental models, polynomial chaos expansion, environmental modelling, software emulation
+Bayesian inference, hydraulic properties, white fir, ecohydrologic model, environmental modelling, software
+diurnal patterns, evapotranspiration prediction, land - surface models
+hydraulic control, temperate tree species, ecohydrology
+stem water, tree storage, hydraulic strategies
+species-specific, transpiration responses, intermediate disturbance, northern hardwood forest, geophysical research, biogeosciences
+CMIP5, plant functional types, Upper Midwest, Northeastern United States, Journal of Geophysical Research, Biogeosciences
+woody plant, bedrock water
+plant survival, plant mortality, drought
+drought-induced, vegetation mortality, multimodel experiment, drought theories
+water transport, water storage, conifers, deuterium tracing, heat tracing, plant cell, plant environment
+transpiration dynamics, sap flow, stored water use, tropical forest canopy trees, tree physiology
+Ecosystem photosynthesis, Land - surface models, First - principles approach, Acclimation
+Vegetation-climate, feedbacks, scales
+GLEAM4, global land evaporation, soil moisture dataset
+hydrodynamic trait, cost–benefit trade - offs, isohydric–anisohydric continuum, trees, ecohydrology
+tree level, hydrodynamic approach, aboveground water storage, stomatal conductance, tree hydraulic strategy
+Leaf Water Potential, Biomass, Vegetation Optical Depth
+remote sensing, leaf traits, climate data, global maps
+Predictability, Weather, Climate, Artificial Intelligence
+ERA5-Land, global reanalysis, land applications, Earth system science data
+Disturbance, carbon cycling, nitrogen cycling, north temperate forest, resilience
+Noah-MP, 植物储水, 动态根吸水, 干旱响应, 地球系统建模
+atmospheric demand, ecosystem water, carbon fluxes
+Water storage, subtropical tree species, wood density, growth rate, life history traits
+Flash droughts, Rapid-onset droughts, United States, Bulletin, American Meteorological Society
+irrigation, farmworkers, heat stress, California, season, day night
+Flash droughts, subseasonal prediction, seasonal prediction, Nature Climate Change
+High-performance, Earth system, Land Information System, Software Engineering
+Drought-mortality, tropical forests
+xylem cavitation, Sonoran desert, desert vegetation
+probabilistic weather, machine learning, weather forecasting
+flash droughts, soil moisture, atmospheric aridity
+water retention curve, soil properties, linear methods, nonlinear methods, concomitant variable methods, soil tillage research
+generative adversarial network, climate downscaling, weather generation
+generative adversarial networks, downscaling precipitation, warmer climates, geophysical research, precipitation extremes
+bias correction, dynamical downscaling, Geophysical Research Letters
+land-surface, hydrology schemes, air temperatures, regional climate model, Australia, daily maximum, daily minimum, water, climate change
+Transpiration, global water cycle, Agricultural and Forest Meteorology
+climate models, process knowledge, artificial intelligence
+Hydraulic capacitance, internal water sources, tree size
+fiber-optic, seismic sensing, vadose zone, soil moisture, nature communications
+Tree Hydrodynamic, Soil Plant Atmosphere, SPAC - 3Hpy, Geosci Model Dev
+Soil Parameterization, Land Surface Models, Soil Moisture Predictions, Hydrologically Complex regions, Contiguous United States
+tropical storms, extreme rainfall, Gulf of Mexico
+Plant Responses, Water Stress, Plant Hydraulics
+cutting-edge, xylem refilling, control experiment
+plant water, rhizosphere conductance, xylem conductance
+Wealth Over Woe, Hydro - Hazard Research, Global Biases
+water storage, rooting zones, vegetation, global patterns
+runoff simulation, Western United States, Noah - MP, VIC models, Hydrol. Earth Syst. Sci.
+atmospheric demand, forest carbon uptake, dry soil, water demand, forest transpiration
+water fluxes, carbon fluxes, plant hydraulics, terrestrial ecosystems, agricultural forest meteorology
+gridded daily, weather data, North America, uncertainty quantification, scientific data
+coastal storm, early warning, coastal engineering
+water stress, radar, Amazon
+Van Genuchten, hydraulic conductivity, unsaturated soils, Soil Science
+global hydrology, hyper - resolution, Earth Syst. Dynam, model
+SMAP-HydroBlocks, soil moisture, satellite-based, conterminous US, Sci Data
+MODIS, land surface temperature, users’ guide, computational earth system science, University of California, Santa Barbara, USA, 2006, p. 26
+Flaml, automl library, Machine Learning, Systems
+Super Drought, Global Warming, Monitoring Index
+Sapwood water storage, transpiration, water conductance, old - growth Douglas - fir
+Climatic aridity, Terrestrial water budget, El Niño–Southern Oscillation
+CMIP5, CMIP6 projections, Edwards aquifer region
+Hydrological Projections, CMIP5, CMIP6, Uncertainty, American Meteorological Society
+groundwater, global water cycle, changing nature
+sampling approaches, Fourier Amplitudes Sensitivity Test, computational statistics, data analysis
+parametric uncertainty, nonlinear models, uncertainty contributions
+hydraulic traits, tropical forests, hydrodynamic scheme, vegetation model
+plant hydraulic traits, vegetation dynamics, tropical forests
+land modeling, crop modeling, flooded rice fields, shallow paddy water
+hydrologic parameter, CLM5, hydrologic uncertainty, Community Land Model
+groundwater, stream connections, continental United States, Nature Water
+50 °C, Paris, CMIP6, adaptation, Climate Services
+US Corn Belt, regional precipitation recycling, Proc Natl Acad Sci, 2025
+terrestrial evapotranspiration, soil moisture, global dataset, 1982 - 2020
+ecosystem, water use efficiency, gross primary productivity, vapor pressure deficit
+Warming, Disturbances, Arctic-boreal, Vegetation resilience, Northwestern North America
+lake evaporation, Texas, water resources
+Multivariate Causality, Land–Atmosphere Interactions, Time-Dependent Structures
+convective-permitting, regional climate model, cloud band events, South America
+Community Land Model, CLM, version 4.5
+parameterization improvements, functional advances, structural advances, Community Land Model, Version 4
+distributed models, process-based models, hydrology applications, hydrology challenges, hydrology trends
+Differentiable modelling, machine learning, physical models, geosciences
+plant traits, photosynthetic efficiency, global variations
+groundwater recharge, satellite soil moisture, novel approach
+warming effects, plant biomass, precipitation, mycorrhizal association
+论文, 自动总结, arXiv, 气象论文, 工具, Github
