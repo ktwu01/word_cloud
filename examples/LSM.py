@@ -20,7 +20,6 @@ text = open(path.join(d, 'LSM.txt')).read()
 # Generate a word cloud image
 wordcloud = WordCloud().generate(text)
 
-
 # store to file
 wordcloud.to_file(path.join(d, "LSM.png"))
 
